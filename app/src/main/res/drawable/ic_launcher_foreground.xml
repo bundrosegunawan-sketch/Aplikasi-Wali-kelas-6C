@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.8"
+        android:scaleY="0.8">
+        <!-- Graduation Cap Top -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M54,24 L86,38 L54,52 L22,38 Z" />
+        <!-- Cap Base & Tassel -->
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M34,46 L34,56 C34,64 74,64 74,56 L74,46 L54,55 Z" />
+        <path
+            android:strokeColor="#FFE082"
+            android:strokeWidth="2"
+            android:pathData="M78,39 L84,52 L82,60" />
+        <!-- Open Book (Kemendikdasmen Kurikulum Merdeka Style) -->
+        <!-- Left Page -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M52,62 C40,58 28,60 22,64 L22,86 C28,82 40,80 52,84 Z" />
+        <!-- Right Page -->
+        <path
+            android:fillColor="#ECEFF1"
+            android:pathData="M56,62 C68,58 80,60 86,64 L86,86 C80,82 68,80 56,84 Z" />
+        <!-- Book Spine/Center & Bookmark Ribbon -->
+        <path
+            android:fillColor="#0D47A1"
+            android:pathData="M52,62 L56,62 L56,88 L54,86 L52,88 Z" />
+        <!-- Left page lines -->
+        <path
+            android:strokeColor="#90A4AE"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:pathData="M28,69 C35,67 43,67 47,69 M28,75 C35,73 43,73 47,75" />
+        <!-- Right page lines -->
+        <path
+            android:strokeColor="#90A4AE"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:pathData="M61,69 C65,67 73,67 80,69 M61,75 C65,73 73,73 80,75" />
+        <!-- 6th Grade Star Badge -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M54,46 L56,51 L61,51 L57,54 L59,59 L54,56 L49,59 L51,54 L47,51 L52,51 Z" />
+    </group>
+</vector>

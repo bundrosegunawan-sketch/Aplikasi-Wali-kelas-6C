@@ -1,0 +1,6 @@
+{
+  "name": "WaliKelas 6 SD",
+  "description": "Aplikasi Administrasi Wali Kelas 6 SD Kurikulum Merdeka & Standar Kemendikdasmen lengkap dengan data sekolah, siswa, absensi QR, nilai formatif & sumatif, rapor semester 1, cetak PDF, WA notifikasi, dan analitik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
